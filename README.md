@@ -1,0 +1,2 @@
+# blacknova.exe
+blacknova trojan
